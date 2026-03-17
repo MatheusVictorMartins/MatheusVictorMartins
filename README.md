@@ -1,4 +1,6 @@
-![banner](/assets/banner.gif)
+<p align="center">
+  <img src="/assets/banner.gif" alt="banner" width="100%" />
+</p>
 
 ## Hi there!🙋‍♂️
 
