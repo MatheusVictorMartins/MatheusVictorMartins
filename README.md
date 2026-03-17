@@ -1,7 +1,9 @@
 <p align="center">
-  <div  style="width:100%; max-height:100px; height:100px; overflow:hidden;">
-    <img src="/assets/banner.gif" alt="banner" width="100%" />
-  </div>
+  <img 
+    src="/assets/banner.gif" 
+    alt="banner"
+    style="width:100%; height:250px; object-fit:cover;"
+  />
 </p>
 
 ## Hi there!🙋‍♂️
