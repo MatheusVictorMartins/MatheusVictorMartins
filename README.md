@@ -6,14 +6,14 @@
   />
 </p>
 <p align="left">
-  <a href="https://github.com/MatheusVictorMartins">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/github.svg" height="40">
+  <a href="https://github.com/MatheusVictorMartins" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg">
   </a>
-  <a href="https://linkedin.com/in/matheus-victor-martins">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/linkedin.svg" height="40">
+  <a href="https://linkedin.com/in/matheus-victor-martins" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg">
   </a>
-  <a href="https://instagram.com/matheus.victor_martins">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/instagram.svg" height="40">
+  <a href="https://instagram.com/matheus.victor_martins" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg">
   </a>
 </p>
 
