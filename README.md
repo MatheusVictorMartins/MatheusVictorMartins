@@ -1,4 +1,4 @@
-![banner](/assets/banner.gif)
+<picture>![banner](/assets/banner.gif)<picture/>
 
 ## Hi there!🙋‍♂️
 
