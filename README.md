@@ -1,4 +1,4 @@
-<picture align="center">![banner](/assets/banner.gif)<picture/>
+<picture align="center" width="100%">![banner](/assets/banner.gif)<picture/>
 
 ## Hi there!🙋‍♂️
 
