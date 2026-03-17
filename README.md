@@ -5,7 +5,7 @@
     style="width:100%;  object-fit:cover;"
   />
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/MatheusVictorMartins" style="text-decoration:none; border:none;">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/github.svg">
   </a>
