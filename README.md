@@ -2,7 +2,7 @@
   <img 
     src="/assets/banner.gif" 
     alt="banner"
-    style="width:100%; height:250px; object-fit:cover;"
+    style="width:100%;  object-fit:cover;"
   />
 </p>
 
