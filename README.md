@@ -1,5 +1,7 @@
 <p align="center">
+  <div style="width=100%; overflow=hidden">
   <img src="/assets/banner.gif" alt="banner" width="100%" />
+  </div>
 </p>
 
 ## Hi there!🙋‍♂️
