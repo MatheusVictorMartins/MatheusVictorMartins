@@ -35,15 +35,15 @@ I am also a researcher and developer at the University of São Paulo (USP), work
 
 <p align="center">
   <a href="https://github.com/MatheusVictorMartins">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=MatheusVictorMartins&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=MatheusVictorMartins&show_icons=true&hide_border=true&hide_title=true&theme=holi" alt="GitHub Stats">
   </a>
   <a href="https://github.com/MatheusVictorMartins">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusVictorMartins&hide_border=true&theme=dark" alt="MatheusVictorMartins" />
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusVictorMartins&hide_border=true&theme=vue-dark" alt="MatheusVictorMartins" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/MatheusVictorMartins">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusVictorMartins&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusVictorMartins&theme=holi" alt="GitHub Profile Summary">
   </a>
 </p>
 
