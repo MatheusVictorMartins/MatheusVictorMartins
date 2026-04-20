@@ -27,7 +27,7 @@ I am also a researcher and developer at the University of São Paulo (USP), work
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,css,html,js,ts,react,nuxt,git,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,css,html,js,ts,go,react,nuxt,git,figma,linux" />
 </p>
 
 ###
